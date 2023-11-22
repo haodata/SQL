@@ -20,7 +20,7 @@ select avg(SAFETY_SCORE) from chicagopublicschools group by  `Elementary, Middle
 #problem 7
 select COMMUNITY_AREA_NAME from chicagocensusdata order by `PERCENT_HOUSEHOLDS_BELOW_POVERTY` desc limit 5;
 
-#problem 8 ???
+#problem 8 
 select COMMUNITY_AREA_NUMBER , count(COMMUNITY_AREA_NUMBER) as frequnecy from chicagocrimedata 
 group by COMMUNITY_AREA_NUMBER 
 order by count(COMMUNITY_AREA_NUMBER) desc limit 1;

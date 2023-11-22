@@ -1,9 +1,9 @@
 # SQL
 ## 1. Used MySQL to analyze box office data for 2023
-## 2. Used MySQL to analyze three Chicago datasets(Answer 10 questions in mod5_final_project).
-#### Problem 1: Find the total number of crimes recorded in the CRIME table.
+## 2. Used MySQL to analyze three Chicago datasets(Answer 10 questions ).
+Problem 1: Find the total number of crimes recorded in the CRIME table.
 
-#### Problem 2: List community areas with per capita income less than 11000.
+Problem 2: List community areas with per capita income less than 11000.
 
 Problem 3: List all case numbers for crimes involving minors?
 

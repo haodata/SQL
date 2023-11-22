@@ -1,3 +1,3 @@
 # SQL
-1. Used MySQL for analyze box office data for 2023
-2. used MySQL for analyze three Chicago datasets.
+## 1. Used MySQL to analyze box office data for 2023
+## 2. used MySQL to analyze three Chicago datasets.
